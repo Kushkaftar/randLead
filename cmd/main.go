@@ -27,5 +27,5 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Println("helo world")
+	fmt.Println(config)
 }
